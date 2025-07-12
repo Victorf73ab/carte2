@@ -1,1 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.3522, 48.8566] },
+      "properties": {
+        "time": "1993-01-01",
+        "popup": "Jan-Rémi Fromentin (29 ans)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.3522, 48.8566] },
+      "properties": {
+        "time": "1995-01-01",
+        "popup": "Jan-Rémi Fromentin (31 ans)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.7306, 45.1821] },
+      "properties": {
+        "time": "1999-01-01",
+        "popup": "Jan-Rémi Fromentin (36 ans)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [4.8357, 45.7640] },
+      "properties": {
+        "time": "2003-01-01",
+        "popup": "Jan-Rémi Fromentin (40 ans)"
+      }
+    }
+  ]
+}
 

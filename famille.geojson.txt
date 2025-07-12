@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.3522, 48.8566] },
+      "properties": {
+        "time": "1993-01-01",
+        "popup": "Jan-Rémi Fromentin, 29 ans, Paris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [2.3522, 48.8566] },
+      "properties": {
+        "time": "1995-01-01",
+        "popup": "Jan-Rémi Fromentin, 31 ans, Paris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [5.7245, 45.1885] },
+      "properties": {
+        "time": "1999-01-01",
+        "popup": "Jan-Rémi Fromentin, 36 ans, Grenoble"
+      }
+    }
+  ]
+}
